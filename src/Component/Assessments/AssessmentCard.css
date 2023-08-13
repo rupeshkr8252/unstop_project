@@ -1,0 +1,16 @@
+.h3-size{
+    font-size: 15px;
+}
+
+.candidate-size{
+    font-size: 12px;
+}
+
+.total-candidate-size{
+    font-size: 15px;
+}
+
+.green-additional{
+    font-size: 10px;
+    color: rgb(41, 172, 41);
+}

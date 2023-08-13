@@ -1,0 +1,25 @@
+.css-o5srbh-MuiPaper-root-MuiAppBar-root{
+    background-color:#fff !important;
+    box-shadow: none !important;
+}
+.css-54y3zm-MuiPaper-root-MuiAppBar-root{
+    background-color:#fff !important;
+    box-shadow: none !important;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    color: #000;
+}
+
+.assessment-border{
+    border-bottom: 3px solid #0073E6;
+    color:#0073E6 ;
+}
+
+.container-color{
+    background: #fff;
+}
+
+.assess-overview{
+    font-size: 25px;
+}
